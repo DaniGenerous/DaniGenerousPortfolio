@@ -178,7 +178,8 @@ ul {
   font-size: 20px;}
 
 a {
-  color: blueviolet(--bs-link-color)}
+  color: var(--bs-link-color, blueviolet);
+}
 
 .icons {padding-bottom: 30px; padding-left: 30px;color:white;display: inline-block;
   background-color: blueviolet;
