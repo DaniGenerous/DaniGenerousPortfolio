@@ -13,11 +13,16 @@ body {background-image: url(images/background.jpg); background-size: cover; font
     --bs-nav-link-hover-color: blueviolet
   }
 
+  a {
+    color: orange !important;
+    text-decoration: none;
+  }
   
-  .nav-link {color: orange;}
-  #brand {color: blueviolet !important; background-color: white;}
-
-a {color:orange}
+  a:hover,
+  a:active {
+    color: blueviolet !important;
+  }
+  
 
 #attribute {color: white; font-size: xx-small; padding-left: 1600px;}
 
