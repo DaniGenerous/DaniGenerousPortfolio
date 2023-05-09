@@ -13,14 +13,11 @@ body {background-image: url(images/background.jpg); background-size: cover; font
     --bs-nav-link-hover-color: blueviolet
   }
 
+  
   .nav-link {color: orange;}
-  #brand {color: blueviolet; !important; background-color: white;}
+  #brand {color: blueviolet !important; background-color: white;}
 
 a {color:orange}
-
-a {
-  color: orange !important;
-}
 
 #attribute {color: white; font-size: xx-small; padding-left: 1600px;}
 
@@ -170,6 +167,9 @@ ul {
 
 #map {padding-top: 40px;}
 
+a {
+  color: orange;
+}
 
 #buttonabout 
 
@@ -181,9 +181,10 @@ ul {
   text-decoration: none;
   font-size: 20px;}
 
-a {
-  color: var(--bs-link-color, blueviolet);
-}
+  a {
+    color: var(--bs-link-color, blueviolet);
+  }
+  
 
 .icons {padding-bottom: 30px; padding-left: 30px;color:white;display: inline-block;
   background-color: blueviolet;
