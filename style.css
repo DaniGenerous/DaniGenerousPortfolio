@@ -4,7 +4,7 @@ body {background-image: url(images/background.jpg); background-size: cover; font
 #subtitle {padding-top: 70px; text-align: center; color: aliceblue; padding-right: 570px }
 #pro {padding-top: 180px; padding-bottom:200px }
 #welcome {text-align: center; font-style: normal; font-weight:bold ;}
-#take {color:blueviolet;  padding-left:213px; color: white; text-shadow: 3px 3px 4px blueviolet; padding-top: 15px;}
+#take {color:blueviolet;  padding-left:153px; color: white; text-shadow: 3px 3px 4px blueviolet; padding-top: 15px;}
 .navbar-nav {
     background-color: white;
     display: flex;
