@@ -18,6 +18,10 @@ body {background-image: url(images/background.jpg); background-size: cover; font
 
 a {color:orange}
 
+a {
+  color: orange !important;
+}
+
 #attribute {color: white; font-size: xx-small; padding-left: 1600px;}
 
 .carousel {
