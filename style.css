@@ -1,10 +1,10 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE */
 body {background-image: url(images/background.jpg); background-size: cover; font-family: 'poppins' }
-#title { padding-top: 350px; color: aliceblue; font-size: 100px;}
-#subtitle {padding-top: 70px; text-align: center; color: aliceblue; padding-right: 570px }
+#title { padding-top: 300px; color: aliceblue; font-size: 100px;}
+#subtitle {padding-top: 70px; text-align: center; color: aliceblue; padding-right: 500px }
 #pro {padding-top: 180px; padding-bottom:200px }
 #welcome {text-align: center; font-style: normal; font-weight:bold ;}
-#take {color:blueviolet;  padding-left:153px; color: white; text-shadow: 3px 3px 4px blueviolet; padding-top: 15px;}
+#take {color:blueviolet;  padding-left:180px; color: white; text-shadow: 3px 3px 4px blueviolet; padding-top: 15px;}
 .navbar-nav {
     background-color: white;
     display: flex;
