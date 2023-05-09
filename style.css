@@ -14,7 +14,7 @@ body {background-image: url(images/background.jpg); background-size: cover; font
   }
 
   .nav-link {color: orange;}
-  #brand {color: blueviolet;}
+  #brand {color: blueviolet; !important}
 
 a {color:orange}
 
